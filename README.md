@@ -1,4 +1,4 @@
-# Former Solver
+# NRK Former Solver
 
 A Python program to solve shape-matching puzzles by removing connected groups and applying gravity. The solver uses a heuristic-based approach with a priority queue (A* search) to find an optimal sequence of moves.
 
